@@ -13,6 +13,7 @@ Source0:	http://www.cpan.org/authors/id/G/GB/GBARR/CPAN-DistnameInfo-%{version}.
 # Source0-md5:	06bc803c0e4fb7735ddc7282163f1cc3
 URL:		http://search.cpan.org/dist/CPAN-DistnameInfo/
 BuildRequires:	perl(ExtUtils::MakeMaker)
+BuildRequires:	perl-Encode
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
 BuildRequires:	perl(Data::Dumper)
