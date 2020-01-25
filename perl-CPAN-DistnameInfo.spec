@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 
-%include	/usr/lib/rpm/macros.perl
 Summary:	Extract distribution name and version from a distribution filename
 Name:		perl-CPAN-DistnameInfo
 Version:	0.12
