@@ -5,7 +5,7 @@
 Summary:	Extract distribution name and version from a distribution filename
 Name:		perl-CPAN-DistnameInfo
 Version:	0.12
-Release:	1
+Release:	2
 License:	GPL+ or Artistic
 Group:		Development/Libraries
 Source0:	http://www.cpan.org/authors/id/G/GB/GBARR/CPAN-DistnameInfo-%{version}.tar.gz
